@@ -1,0 +1,7 @@
+Hello World! This is a sample file.
+MCP Server Development is exciting.
+Model Context Protocol enables AI integration.
+This file contains multiple lines.
+We can search for keywords in this file.
+MCP makes it easy to build tools.
+The search function is case-insensitive by default.
