@@ -110,14 +110,20 @@ The server includes error handling for:
 
 ## Troubleshooting
 
+## Troubleshooting
+
 **Issue**: `ENOENT: no such file or directory`
+
 **Solution**: Ensure you're using the correct file path. Try using absolute paths or ensure the file exists in the specified location.
 
 **Issue**: Connection error in MCP Inspector
+
 **Solution**: Make sure the server is built (`npm run build`) and the path in Arguments field is `build/index.js`.
 
 **Issue**: `Command not found`
+
 **Solution**: Run the inspector from the project directory using `npx @modelcontextprotocol/inspector node build/index.js`.
+
 
 
 ### Made with ❤️ by Abhishek.
